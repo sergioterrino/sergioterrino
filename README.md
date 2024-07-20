@@ -44,7 +44,7 @@
 </div>
 <!--tech stack icons-->
 <p align="center">
-  <a href="https://stb-portfolio.netlify.app/" target="_blank">
+  <a href="https://stb-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=java,angular,spring,mysql,git,js,mongodb,nextjs,nodejs,py,react,tailwind,ts,bootstrap,hibernate,maven,express,firebase,html,postman,css,docker,vscode,jquery,linux,netlify,github,eclipse&perline=14" />
   </a>
 </p>
