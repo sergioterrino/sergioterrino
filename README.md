@@ -28,7 +28,7 @@
 
 <p align="center" dir="auto">
 <a href="https://github.com/sergioterrino" target="_blank">
-  <img height="180em" data-canonical-src="https://github-readme-stats.vercel.app/api?username=sergioterrino&theme=algolia&show_icons=true" style="max-width: 100%;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergioterrino&theme=algolia&show_icons=true" style="max-width: 100%;">
   <img height="180em" src="https://camo.githubusercontent.com/167a225b00974a7f35532c3accc1d325e6cb03967801b68be14b58a5100de697/68747470733a2f2f6769746875622d726561646d652d73746174732d65696768742d74686574612e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d417269734775696d657261266c61796f75743d636f6d70616374266c616e67735f636f756e743d38267468656d653d616c676f6c6961" data-canonical-src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sergioterrino&amp;layout=compact&amp;langs_count=8&amp;theme=algolia" style="max-width: 100%;">
 </a>
 </p>
