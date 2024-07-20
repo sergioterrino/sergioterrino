@@ -10,15 +10,9 @@
 </div>
 
 <p align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+  <img src="[https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png](https://github.com/user-attachments/assets/79b70fff-b371-4107-9166-0cd63f0adb5c)" height="230"/>
 </p>
 
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 <!--Intro start-->
 - 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
