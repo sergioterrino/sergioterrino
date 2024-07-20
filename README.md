@@ -45,7 +45,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://stb-portafolio.netlify.app">
-    <img src="https://skillicons.dev/icons?i=java,angular,spring,mysql,git,js,mongodb,nextjs,nodejs,py,react,tailwind,ts,bootstrap,hibernate, maven,express,firebase,html,postman,css,docker,vscode,jquery,jboss,linux,netlify,github,eclipse&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,angular,spring,mysql,git,js,mongodb,nextjs,nodejs,py,react,tailwind,ts,bootstrap,hibernate,maven,express,firebase,html,postman,css,docker,vscode,jquery,jboss,linux,netlify,github,eclipse&perline=14" />
   </a>
 </p>
 
