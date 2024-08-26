@@ -30,7 +30,7 @@
 -  Download my CV here
 <p align="center">
   <a href="https://github.com/user-attachments/files/16747069/CV_Sergio_Terrino_Brea.pdf" download="Sergio_Terrino_CV.pdf">
-    <img src="https://img.shields.io/badge/Download%20My%20CV-Click%20Here-blue?style=for-the-badge" alt="Download CV"/>
+    here
   </a>
 </p>
 <!--Intro end-->
