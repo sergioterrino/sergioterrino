@@ -27,7 +27,7 @@
 
 - 📫 Feel free to reach me out **sergioterrino8@gmail.com**
   
--  Download my resume <span style="margin-top:10px"><a href="https://github.com/user-attachments/files/16747069/CV_Sergio_Terrino_Brea.pdf" download="Sergio_Terrino_CV.pdf"><img src="https://img.shields.io/badge/Download%20CV-blue?style=for-the-badge" alt="Download CV"/></a></span>
+-  <span><a href="https://github.com/user-attachments/files/16747069/CV_Sergio_Terrino_Brea.pdf" download="Sergio_Terrino_CV.pdf"><img src="https://img.shields.io/badge/Download%20CV-blue?style=for-the-badge" alt="Download CV"/></a></span>
 <!--Intro end-->
 </br>
 
