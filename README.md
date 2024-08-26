@@ -27,7 +27,8 @@
 
 - 📫 Feel free to reach me out **sergioterrino8@gmail.com**
   
--  <span><a href="https://github.com/user-attachments/files/16747069/CV_Sergio_Terrino_Brea.pdf" download="Sergio_Terrino_CV.pdf"><img src="https://img.shields.io/badge/Download%20CV-blue?style=for-the-badge" alt="Download CV"/></a></span>
+-  <div style="display:flex justify-content:center" align="center"><a href="https://github.com/user-attachments/files/16747069/CV_Sergio_Terrino_Brea.pdf" download="Sergio_Terrino_CV.pdf"><img src="https://img.shields.io/badge/Download%20CV-blue?style=for-the-badge" alt="Download CV"/></a></div>
+<div style="display:flex justify-content:center" align="center"><a href="https://github.com/user-attachments/files/16747069/CV_Sergio_Terrino_Brea.pdf" download="Sergio_Terrino_CV.pdf"><img src="https://img.shields.io/badge/Download%20CV-blue?style=for-the-badge" alt="Download CV"/></a></div>
 <!--Intro end-->
 </br>
 
