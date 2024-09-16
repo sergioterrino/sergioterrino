@@ -50,7 +50,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://stb-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=java,py,spring,js,react,angular,mysql,ts,git,mongodb,nextjs,nodejs,tailwind,bootstrap,hibernate,maven,express,firebase,html,postman,css,docker,vscode,django,linux,netlify,github,eclipse&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,py,spring,js,react,angular,mysql,ts,git,mongodb,nextjs,nodejs,tailwind,bootstrap,django,hibernate,maven,express,firebase,html,postman,css,docker,vscode,linux,netlify,github,eclipse&perline=14" />
   </a>
 </p>
 
